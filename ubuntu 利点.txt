@@ -1,0 +1,5 @@
+GUI操作ができる
+CUIのLinuxコマンドが使える
+GUIをMac or Windowsに寄せるカスタマイズができる
+「Ubuntuソフトウェアセンター」で豊富なフリーソフトが使える
+Mac・Windowsパソコンの仮想環境として使える
